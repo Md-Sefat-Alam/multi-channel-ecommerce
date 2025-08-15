@@ -1,0 +1,25 @@
+.bookmark {
+  position: relative;
+}
+
+.bookmark-tail::before {
+  content: "";
+  position: absolute;
+  right: -25px;
+  top: 0px;
+  width: 25px;
+  height: 25px;
+  border-right: 25px solid transparent; /* Tail width */
+  border-top: 25px solid var(--secondary); /* Tail color */
+}
+.bookmark-tail::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  right: -25px;
+  width: 25px;
+  height: 25px;
+  border-left: 25px solid transparent; /* Tail width */
+  border-top: 25px solid var(--secondary); /* Tail color */
+  transform: rotate(180deg);
+}

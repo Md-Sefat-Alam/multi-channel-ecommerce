@@ -1,0 +1,588 @@
+{
+  "common": {
+    "more": "More Details",
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "noData": "No Data",
+    "update": "Update",
+    "search": "Search",
+    "actions": "Actions",
+    "view": "View",
+    "payment": "Payment",
+    "coming_soon": "Coming soon...",
+    "field_not_found": "field not found",
+    "fields_not_found": "fields not found",
+    "home": "Home",
+    "share": "Share",
+    "save": "Save"
+  },
+  "navbar": {
+    "home": "Home",
+    "store": "Store",
+    "about": "About Us",
+    "farming": "Farming",
+    "search": "Search",
+    "cart": "Cart",
+    "profile": "Profile",
+    "search_loading": "Search is loading...",
+    "cart_empty": "You haven’t added any items to your cart yet! Please select products before proceeding to checkout.",
+    "coming_soon": "Coming soon...!",
+    "account": "Account",
+    "account_user": "Account",
+    "wishlist": "Wishlist",
+    "phone": "+8801322330948",
+    "email": "suddha@gmail.com",
+    "blogs": "Blogs",
+    "blogs_coming": "Blogs coming soon!"
+  },
+  "search": {
+    "placeholder_readonly": "Search Something...",
+    "button": "Search",
+    "modal_title": "Search on Products & Blogs",
+    "input_placeholder": "Search for products or blogs",
+    "products_tab": "Products ({count})",
+    "blogs_tab": "Blogs ({count})",
+    "no_products": "No products found.",
+    "no_blogs": "No blogs found."
+  },
+  "cart": {
+    "my_cart": "My Cart",
+    "clear": "Clear",
+    "proceed": "Proceed",
+    "empty": "Not found",
+    "quantity_label": "Q: {value}",
+    "item_removed": "Item has been removed!",
+    "all_items_removed": "All cart items have been removed!"
+  },
+  "account": {
+    "login_now": "Login! Now",
+    "login": "Login!",
+    "now": "Now",
+    "welcome": "Welcome!",
+    "orders": "Orders",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "categories": {
+    "title": "Browse Categories",
+    "subtitle": "Explore our wide range of product categories for your daily needs",
+    "empty": "No categories found",
+    "show_more": "Show More",
+    "show_less": "Show Less"
+  },
+  "featuredProducts": {
+    "title": "Featured Products",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "noProductsFound": "No Featured Products found"
+  },
+  "productCard": {
+    "discountOff": "% OFF",
+    "outOfStock": "Out of Stock",
+    "onlyLeft": "Only {count} left",
+    "addToCart": "Add to Cart",
+    "viewCart": "View Cart",
+    "addedToWishlist": "Added into Wish-list.",
+    "removedFromWishlist": "Removed from Wish-list.",
+    "unitTypes": {
+      "KG": "Per Kilogram",
+      "GRAM": "Per Gram",
+      "LITER": "Per Liter",
+      "ML": "Per Milliliter",
+      "PIECES": "Per Piece",
+      "METER": "Per Meter",
+      "OTHER": "Per Unit"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us",
+    "description": "We're committed to providing the best organic products and services for your health and well-being.",
+    "features": [
+      {
+        "title": "100% Organic Products",
+        "description": "We ensure every product is naturally grown and safe for your family."
+      },
+      {
+        "title": "Any Time, Anywhere Delivery",
+        "description": "Fast, flexible delivery service at your convenience, wherever you are."
+      },
+      {
+        "title": "Keeps Your Family Healthy",
+        "description": "Our fresh products help you maintain a healthy lifestyle every day."
+      },
+      {
+        "title": "Clean, Fresh and Safe",
+        "description": "Maintaining hygiene and quality from source to shelf."
+      }
+    ]
+  },
+  "topSelling": {
+    "title": "Top Selling Products",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "emptyText": "No Top Selling Products found"
+  },
+  "footer": {
+    "tagline": "Pledge of Purity",
+    "about": {
+      "title": "About Shuddha",
+      "description": "A proud initiative of Barendra Krishi Udyog (BKU), committed to providing safe, pure and nutritious organic food direct from our farms since 2022.",
+      "learnMore": "Learn more"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": "Lily Garden (1st Floor), Gabtola More, Chapai Nawabganj, Bangladesh",
+      "open": "Always open"
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "store": "Store",
+      "about": "About Us",
+      "farming": "Farming",
+      "products": "Our Products"
+    },
+    "newsletter": {
+      "title": "Subscribe Newsletter",
+      "description": "Stay updated with our latest products and farm news.",
+      "placeholder": "Enter your email",
+      "tagline": "Join our growing community"
+    },
+    "latestPosts": {
+      "title": "Latest Farm News",
+      "0": {
+        "title": "Organic Farming Practices at Shuddha",
+        "date": "March 28, 2025"
+      },
+      "1": {
+        "title": "From Farm to Table: Our Story",
+        "date": "March 15, 2025"
+      },
+      "readMore": "Read more"
+    },
+    "bottomTagline": "A Barendra Krishi Udyog Initiative. All Rights Reserved.",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy"
+  },
+  "about": {
+    "hero": {
+      "tagline": "Nurturing the Earth, Feeding the World",
+      "title": "About the Farm",
+      "breadcrumb": {
+        "home": "Home",
+        "about": "About the Farm"
+      }
+    },
+    "intro": {
+      "badge": "Our Story",
+      "title": "Welcome to Suddha Agriculture & Organic Farms",
+      "subtitle": "Providing The Finest Products To The Best Feed Suppliers.",
+      "para1": "Welcome to Shuddha, a proud initiative of Barendra Krishi Udyog (BKU), launched in September 2022 with the commitment to purity and safety in food. Our journey began in Chapai Nawabganj with the motto 'Pledge of Purity,' aiming to connect consumers directly with fresh, processed agricultural products from our own farms.",
+      "para2": "At Shuddha, we prioritize your health and well-being by providing a wide range of safe and nutritious food options. Our offerings include fresh milk, various types of rice (both perishable and non-perishable), seasonal fruits, jaggery, mustard oil, homemade ghee, pickles, and much more."
+    },
+    "promise": {
+      "badge": "Our Promise",
+      "title": "Discover the Freshness of Nature",
+      "features": {
+        "organic": {
+          "title": "Organic Farming",
+          "desc": "We use sustainable farming practices that are environmentally friendly and produce healthy, nutritious food."
+        },
+        "quality": {
+          "title": "Quality Products",
+          "desc": "Our products are grown and processed with care to ensure the highest quality and nutritional value."
+        },
+        "service": {
+          "title": "Customer Care",
+          "desc": "We provide exceptional service and care for our customers, ensuring your satisfaction with every purchase."
+        },
+        "diversity": {
+          "title": "Diverse Selection",
+          "desc": "From fresh milk to seasonal fruits, rice, and homemade products, we offer a wide range of organic options."
+        }
+      },
+      "bottomLine": "We are confident that we are the leading farm in providing agricultural products that ensure food hygiene and safety."
+    },
+    "impact": {
+      "title": "Our Impact",
+      "desc1": "We are dedicated to establishing a trustworthy marketplace that stands out in a sea of counterfeit products. Looking ahead, Shuddha plans to expand its product line to include a variety of meats and fish, ensuring affordability without compromising quality.",
+      "desc2": "We believe in fostering a community of responsible businesses that share our vision for safe food, ultimately benefiting our consumers and contributing to better health for all. Join us on our mission to provide safe, wholesome food for you and your family. Together, we can make a difference!",
+      "stats": {
+        "products": {
+          "title": "Agricultural Products",
+          "value": "1000+"
+        },
+        "clients": {
+          "title": "Trusted By Clients",
+          "value": "5000+"
+        },
+        "production": {
+          "title": "Daily Production",
+          "progress": "85% of target"
+        }
+      }
+    },
+    "missionVision": {
+      "badge": "Our Purpose",
+      "title": "Mission & Vision",
+      "mission": {
+        "title": "Our Mission",
+        "desc": "Our mission is to contribute to the promotion of agricultural products in Vietnam with a commitment to produce sustainable values that meet international standards and thereby create a fair and competitive market."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "desc": "Our vision is to be a prestigious standard system that aims towards sustainable and fair agricultural development where Vietnamese producers can produce and benefit from global markets through equitable opportunities."
+      }
+    },
+    "contact": {
+      "title": "Get In Touch",
+      "formTitle": "Let's Cooperate Together",
+      "formSubtitle": "Contact Us Today!",
+      "formDesc": "We will reply to you within 24 hours via email. Thank you for contacting us.",
+      "form": {
+        "name": "Your Name",
+        "email": "Your Email",
+        "phone": "Your Phone",
+        "message": "Your Message",
+        "submit": "Send Message"
+      },
+      "info": {
+        "address": {
+          "title": "Farm Address",
+          "desc": "Lily Garden (1st Floor), Gabtola More, Nawabganj, Bangladesh"
+        },
+        "email": {
+          "title": "Email Us",
+          "desc": "suddhafarms@gmail.com"
+        },
+        "phone": {
+          "title": "Call Us",
+          "desc": "Call Us 24/7: 01322-330948"
+        },
+        "hours": {
+          "title": "Working Hours",
+          "desc": "Mon - Fri: 8.00am - 6.00pm\nSat: 9.00am - 5.00pm\nHolidays: Closed"
+        }
+      },
+      "whyUs": {
+        "title": "Why Choose Us?",
+        "list": {
+          "1": "Fresh and sustainable organic products",
+          "2": "Trusted by hundreds of satisfied customers",
+          "3": "Dedicated customer service, available 24/7"
+        }
+      }
+    }
+  },
+  "storeFilter": {
+    "ourStore": "Our Store",
+    "filterTitle": "Filters",
+    "resetFilters": "Reset Filters",
+    "priceRange": "Price Range",
+    "currency": "৳",
+    "sortBy": "Sort By",
+    "newest": "Newest First",
+    "priceAsc": "Price: Low to High",
+    "priceDesc": "Price: High to Low",
+    "rating": "Highest Rated",
+    "inStock": "In Stock Only",
+    "discountOnly": "Discounted Items Only",
+    "category": "Category",
+    "filters": "Filters",
+    "applyFilters": "Apply Filters"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "steps": {
+      "cart": "Cart",
+      "address": "Address",
+      "order": "Order",
+      "payment": "Pay",
+      "done": "Done"
+    },
+    "desc": {
+      "cart": "Review your items",
+      "address": "Delivery details",
+      "order": "Confirm order",
+      "payment": "Complete payment",
+      "done": "Order placed"
+    },
+    "orderSuccess": "Order created successfully!",
+    "missingOrderId": "OrderId missing!",
+    "noCartItem": "You don't have any cart items!",
+    "paymentSuccess": "Payment Successful",
+    "paymentFailed": "Payment Failed!",
+    "paymentCancelled": "Payment Cancelled!"
+  },
+  "buyNowCart": {
+    "image": "Image",
+    "product": "Product",
+    "price": "Price",
+    "quantity": "Quantity",
+    "total": "Total",
+    "action": "Action",
+    "removeTitle": "Remove from cart",
+    "removeDesc": "Are you sure you want to remove this item?",
+    "yes": "Yes",
+    "no": "No",
+    "empty": "Your cart is empty",
+    "continue": "Continue Shopping",
+    "summary": "Order Summary",
+    "proceed": "Proceed to Checkout"
+  },
+  "buyNowCheckout": {
+    "fieldsRequired": "fields required",
+    "paymentMethod": "Payment Method",
+    "selectPayment": "Please select payment method",
+    "codTitle": "Cash on Delivery",
+    "codDesc": "Pay when your order arrives",
+    "onlineTitle": "Online Payment",
+    "onlineDesc": "Pay now with card or mobile banking",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "buyForm": {
+    "userInfo": "User Info",
+    "fullName": "Full Name (English)",
+    "enterFullName": "Enter Full Name (English)",
+    "mobile": "Mobile Number",
+    "enterMobile": "Enter Mobile Number",
+    "email": "Email",
+    "enterEmail": "Enter email",
+    "shippingAddress": "Address",
+    "postCode": "Post Code",
+    "enterPostCode": "Enter Post Code",
+    "division": "Division",
+    "selectDivision": "Select Division",
+    "district": "District",
+    "selectDistrict": "Select District",
+    "thana": "Thana",
+    "selectThana": "Select Thana",
+    "address": "Address",
+    "enterAddress": "Enter your address",
+    "remarks": "Remarks",
+    "enterRemarks": "Enter any remarks",
+    "confirmPolicy1": "Check this box to confirm you've read and agree to the terms and conditions of the",
+    "confirmPolicy2": "Check this box to confirm you've read",
+    "policy": "policy",
+    "privacy": "privacy"
+  },
+  "orderConfirmation": {
+    "yourCart": "Your Cart",
+    "previous": "Previous",
+    "confirm": "Confirm",
+    "fieldsNotFound": "fields not found"
+  },
+  "buyNowForm": {
+    "userInfo": "User Info",
+    "fullName": "Full Name (English)",
+    "mobile": "Mobile Number",
+    "gender": "Gender",
+    "email": "Email",
+    "shippingAddress": "Shipping Address",
+    "postalCode": "Post Code",
+    "division": "Division",
+    "district": "District",
+    "thana": "Thana",
+    "address": "Address",
+    "remarks": "Remarks",
+    "policy1": "Check this box to confirm you've read and agree to the terms and conditions of the",
+    "policy2": "Check this box to confirm you've read",
+    "policyLink": "policy",
+    "privacyPolicy": "privacy"
+  },
+  "paymentSuccess": {
+    "codTitle": "Order Placed Successfully!",
+    "onlineTitle": "Payment Successful & Order Placed!",
+    "codTag": "Cash on Delivery",
+    "onlineTag": "Paid Online",
+    "codMessage": "Thank you for your order! We'll deliver your products to your specified address, and you can pay cash upon delivery. We'll contact you shortly with delivery updates.",
+    "onlineMessage": "Thank you for your purchase! Your payment has been successfully received. We are currently processing your order and will contact you shortly with updates on your delivery.",
+    "orderId": "Order ID",
+    "continueShopping": "Continue Shopping",
+    "viewOrders": "View My Orders"
+  },
+  "profile": {
+    "generalInfo": "General Info",
+    "deliverAddress": "Deliver Address",
+    "fullNameEnglish": "Full Name (English)",
+    "mobileNumber": "Mobile Number",
+    "nationalId": "National ID",
+    "email": "Email",
+    "dateOfBirth": "Date of Birth",
+    "gender": "Gender",
+    "postCode": "Post Code",
+    "division": "Division",
+    "district": "District",
+    "thana": "Thana",
+    "address": "Address",
+    "placeholders": {
+      "fullName": "Enter Full Name",
+      "mobileNumber": "Enter Mobile Number",
+      "nationalId": "Enter NationalID",
+      "email": "Enter Email",
+      "dateOfBirth": "Enter Date of Birth",
+      "gender": "Enter Gender",
+      "postCode": "Enter Post Code",
+      "division": "Division",
+      "district": "District",
+      "thana": "Thana",
+      "address": "Address"
+    },
+    "messages": {
+      "featureUnderDevelopment": "This feature is under development.",
+      "userNotFound": "User not found",
+      "userUpdatedSuccessfully": "User updated successfully",
+      "fieldsNotFound": "field not found",
+      "fieldsNotFoundPlural": "fields not found"
+    }
+  },
+  "myOrders": {
+    "insurerInformation": "Insurer Information",
+    "orderInformation": "Order Information",
+    "userInfo": "User Info",
+    "nomineeInfo": "Nominee Info",
+    "paymentInformation": "Payment Information",
+    "mailingAddress": "Mailing Address",
+    "insurerName": "Insurer Name",
+    "insurerEmail": "Insurer Email",
+    "insurerMobile": "Insurer Mobile",
+    "productName": "Product Name",
+    "sumAssured": "SumAssured",
+    "premium": "Premium",
+    "term": "Term",
+    "mode": "mode",
+    "fullName": "Full Name",
+    "email": "Email",
+    "mobileNumber": "Mobile Number",
+    "nomineeFullName": "Nominee Full Name",
+    "dateOfBirth": "Date Of Birth",
+    "paymentDate": "Payment Date",
+    "paymentMode": "Payment Mode",
+    "paidAmount": "Paid Amount",
+    "attachment": "attachment",
+    "remarks": "Remarks",
+    "postalCode": "Postal Code",
+    "division": "Division",
+    "district": "District",
+    "thana": "Thana",
+    "address": "Address",
+    "noPaymentData": "No Payment Data",
+    "bdt": "BDT"
+  },
+  "myOrderList": {
+    "title": "My Orders",
+    "order_no": "Order No",
+    "order_date": "Order Date",
+    "product": "Product",
+    "total_price": "Total Price",
+    "payment_status": "Payment Status",
+    "order_status": "Order Status",
+    "paid": "PAID",
+    "unpaid": "UNPAID",
+    "quantity_short": "Q",
+    "search_placeholder": "input search text"
+  },
+  "navigation": {
+    "nav_1": "Profile",
+    "nav_2": "Orders",
+    "nav_3": "Settings",
+    "nav_4": "Help"
+  },
+  "profileSidebar": {
+    "profile": "Profile",
+    "my_orders": "My Orders",
+    "change_password": "Change Password",
+    "log_out": "Log Out"
+  },
+  "changePassword": {
+    "changePassword": "Change password",
+    "modalTitle": "Change Password",
+    "oldPasswordLabel": "Old Password",
+    "newPasswordLabel": "New Password",
+    "confirmPasswordLabel": "Confirm Password",
+    "oldPasswordRequired": "Please input your Old Password!",
+    "newPasswordRequired": "Please input your New Password!",
+    "confirmPasswordRequired": "Please input your Confirm Password!",
+    "changePasswordButton": "Change Password",
+    "successMessage": "Passwords were updated successfully"
+  },
+  "validation": {
+    "required": "This field is required!",
+    "numericOnly": "Only Numeric values are allowed!",
+    "validEmail": "Please enter a valid email!",
+    "passwordNotMatched": "Password not matched!",
+    "useNewPassword": "Use new password!",
+    "validBangladeshiMobile": "Please enter a valid Bangladeshi mobile number!"
+  },
+  "wishlist": {
+    "title": "My Wishlist",
+    "removeButton": "Remove",
+    "emptyMessage": "Your wishlist is empty. Add some products to see them here!"
+  },
+  "product": {
+    "noImageAvailable": "No image available",
+    "off": "OFF",
+    "addToWishlist": "Add to wishlist",
+    "removeFromWishlist": "Remove from wishlist",
+    "addedToCartSuccess": "Added to cart successfully!",
+    "addedToWishlistSuccess": "Added to wishlist",
+    "removedFromWishlistSuccess": "Removed from wishlist",
+    "unitTypes": {
+      "KG": "Per Kilogram",
+      "GRAM": "Per Gram",
+      "LITER": "Per Liter",
+      "ML": "Per Milliliter",
+      "PIECES": "Per Piece",
+      "METER": "Per Meter"
+    },
+    "stockStatus": {
+      "outOfStock": "Out of Stock",
+      "inStock": "In Stock",
+      "lowStock": "Only {count} left in stock - order soon"
+    },
+    "addToCart": "Add to Cart",
+    "viewCart": "View Cart",
+    "buyNow": "Buy Now",
+    "deliveryInfo": {
+      "freeDelivery": "Free Delivery",
+      "freeDeliveryDesc": "For orders over 1000 TK",
+      "qualityGuarantee": "Quality Guarantee",
+      "qualityGuaranteeDesc": "100% authentic products"
+    },
+    "tabs": {
+      "description": "Product Description",
+      "specifications": "Specifications",
+      "shipping": "Shipping & Returns"
+    },
+    "specifications": {
+      "stockStatus": "Stock Status",
+      "unitType": "Unit Type",
+      "tags": "Tags"
+    },
+    "noDescriptionAvailable": "No description available.",
+    "shippingPolicy": "Shipping Policy",
+    "shippingPolicyText": "We deliver within 24-48 hours in metropolitan areas and 2-5 business days to other locations. Free shipping is available on orders over 1000 TK.",
+    "returnPolicy": "Return Policy",
+    "returnPolicyText": "If you're not completely satisfied with your purchase, you can return it within 7 days for a full refund or exchange. Products must be in their original packaging and unused condition."
+  },
+  "reviews": {
+    "customerReviews": "Customer Reviews",
+    "reviews": "Reviews",
+    "basedOn": "Based on {count} reviews",
+    "noReviewsYet": "No reviews yet. Be the first to review this product!",
+    "previousPage": "Previous page",
+    "nextPage": "Next page"
+  },
+  "relatedProducts": {
+    "youMightAlsoLike": "You Might Also Like"
+  }
+}
