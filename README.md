@@ -1,78 +1,152 @@
-# Agrani DOER Banking Project
+# Multi-Channel E-commerce Platform - Frontend
 
-Welcome to the Agrani DOER Banking project! This project offers a comprehensive and user-friendly banking experience through a modern web application.
+A modern e-commerce storefront built with Next.js, featuring advanced product filtering, real-time inventory tracking, and seamless shopping experience.
 
-- **Frontend**: Built using Next.js 14 with internationalization support.
-- **Backend**: Powered by Express and MongoDB, handling various CRUD operations.
+## 🚀 Features
 
-## Live Demo
+- **Product Catalog**: Browse products with advanced filtering and search
+- **Real-time Inventory**: Live stock status indicators
+- **Shopping Cart**: Full-featured cart with checkout system
+- **Responsive Design**: Mobile-first responsive interface
+- **Multi-language Support**: Internationalization with next-intl
+- **Authentication**: Firebase authentication integration
+- **State Management**: Redux Toolkit for global state
 
-- **Frontend**: [Agrani DOER Frontend](https://doer-frontend.vercel.app/en)
-- **Backend**: [Agrani DOER Backend](https://agrani-doer-backend.vercel.app/)
-- **Backend Code**: [Agrani DOER Backend Code](https://github.com/Md-Sefat-Alam/DOER_server/)
+## 🛠️ Tech Stack
 
-## Table of Contents
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Protected Admin Password](#admin-password)
-- [Dashboard Gallery Functionality](#dashboard-gallery-functionality)
-- [Technologies Used](#technologies-used)
-- [Internationalization](#internationalization)
+- **Framework**: Next.js 14
+- **Styling**: Tailwind CSS
+- **UI Components**: Ant Design
+- **State Management**: Redux Toolkit
+- **Internationalization**: next-intl
+- **Animations**: Framer Motion
+- **Icons**: Heroicons, React Icons
 
+## 📦 Installation
 
-## About the Project
-Agrani DOER Banking is designed to deliver essential banking services to every upazila in Bangladesh, focusing on accessibility and security. The frontend component of the Agrani DOER platform enables users to access various banking features, view galleries, and apply for agent branches.
-
-## Features
-- **User Authentication:** Secure login and registration.
-- **Service Dashboard:** Access services like cash deposit, withdrawal, and online transfer.
-- **Responsive Design:** Optimized for all device types.
-- **Internationalization:** Supports multiple languages.
-- **Dynamic Gallery:** Manage and view the Agrani DOER gallery.
-- **Special Programs:** Information and updates on special banking programs.
-
-## Protected Admin Password
-- Dashboard is protected by protected routes you can access by login using those bellow identity.
+1. Clone the repository:
 ```bash
-    user_email: admin@admin.com
-    user_password: admin@
+git clone https://github.com/Md-Sefat-Alam/multi-channel-ecommerce.git
+cd multi-channel-ecommerce
 ```
 
-## Dashboard Gallery Functionality
+2. Install dependencies:
+```bash
+npm install
+```
 
-The dashboard provides functionalities to manage and display gallery items. Here’s a quick summary of what you can do:
+3. Set up environment variables:
+```bash
+cp .env.example .env.local
+```
 
-1. **View Gallery Items**: Display a list of all active gallery items.
-2. **Add New Gallery Items**: Upload new gallery items with images, titles, and descriptions.
-3. **Update Existing Items**: Edit gallery items, including updating images, titles, and descriptions.
-4. **Delete Items**: Remove gallery items from the database.
+4. Configure your environment variables in `.env.local`:
+```
+# Add other required environment variables
+```
 
-## Features
+## 🏃‍♂️ Getting Started
 
-- **Image Upload**: Supports image uploads for gallery items.
-- **Item Management**: Allows for viewing, editing, and deleting gallery items.
-- **Dynamic Updates**: Real-time updates for gallery items.
+### Development
+```bash
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-For more details, refer to the API documentation or the application’s user guide.
+### Turbo Mode (Faster Development)
+```bash
+npm run turbo
+```
 
+### Production Build
+```bash
+npm run build
+npm run start
+```
 
-## Technologies Used
-- **Frontend:** 
-  - [Next.js 14](https://nextjs.org/) (React Framework)
-  - [Tailwind CSS](https://tailwindcss.com/) for styling
-  - [react-swiper](https://swiperjs.com//) for carousels
-  - [firebase](https://firebase.google.com//) for authentication
-  - [next-intl](https://next-intl-docs.vercel.app/) for internationalization
+### Linting
+```bash
+npm run lint
+```
 
-- **Backend (for API integration):**
-  - Express.js
-  - MongoDB
-  - Nodemon
+## 📁 Project Structure
 
-- **Deployment:** 
-  - [Vercel](https://vercel.com/)
+```
+src/
+├── app/                 # Next.js App Router
+├── components/          # Reusable UI components
+├── hooks/              # Custom React hooks
+├── lib/                # Utility functions
+├── store/              # Redux store configuration
+├── styles/             # Global styles
+└── types/              # TypeScript type definitions
+```
 
-## internationalization
-This two Language are supported
-- Bangla (bn)
-- English (en)
+## 🔧 Key Dependencies
+
+- **Next.js**: React framework with App Router
+- **Ant Design**: Enterprise-class UI design library
+- **Redux Toolkit**: State management
+- **Firebase**: Authentication and backend services
+- **Tailwind CSS**: Utility-first CSS framework
+- **Framer Motion**: Animation library
+- **React Quill**: Rich text editor
+
+## 🌟 Key Features Implementation
+
+### Product Catalog
+- Advanced filtering by category, price, size, color
+- Search functionality with real-time results
+- Product variant management
+- Image galleries with zoom functionality
+
+### Shopping Cart
+- Add/remove items with quantity management
+- Real-time price calculations
+- Persistent cart state
+- Checkout integration
+
+### Inventory Management
+- Real-time stock status indicators
+- Low stock warnings
+- Multi-channel inventory synchronization
+- Product availability notifications
+
+## 🔗 Integration
+
+This frontend integrates with:
+- **Backend API**: Product data, user management, orders
+- **SSActiveWear API**: Product sourcing and inventory
+- **Shopify API**: Multi-channel sales management
+
+## 📱 Responsive Design
+
+- Mobile-first approach
+- Tablet and desktop optimizations
+- Touch-friendly interfaces
+- Progressive Web App capabilities
+
+## 🚀 Deployment
+
+The application is optimized for deployment on:
+- Vercel (recommended for Next.js)
+- Netlify
+- AWS Amplify
+- Docker containers
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+## 📄 License
+
+This project is part of the Yupsis Full-Stack Engineering Assessment.
+
+---
+
+**Developer**: Md. Sefat Alam  
+**Contact**: md.sefatalam@gmail.com  
+**Phone**: +8801774199968
